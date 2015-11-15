@@ -1,0 +1,10 @@
+[GLOBAL]
+machine_type =
+model =
+wifi =
+wm =
+homedir =
+
+ohmyzsh =
+screenfetch =
+virtualenvwrapper =
