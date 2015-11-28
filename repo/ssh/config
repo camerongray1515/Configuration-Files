@@ -1,0 +1,9 @@
+#> {{ homedir }}/.ssh/config
+
+Host dice
+	User s1230461
+	HostName ssh.inf.ed.ac.uk
+
+Host tardis
+	User camerong
+	HostName ssh.tardis.ed.ac.uk
