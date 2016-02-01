@@ -1,0 +1,6 @@
+{% if model == "t440s" %}
+    #> /etc/udev/rules.d/82-trackpoint.rules
+{% endif %}
+SUBSYSTEM=="serio", DRIVERS=="psmouse", ATTR{sensitivity}=150", ATTR{speed}="100"
+
+
