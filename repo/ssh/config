@@ -1,8 +1,4 @@
-#> {{ homedir }}/.ssh/config
-
-Host dice
-	User s1230461
-	HostName ssh.inf.ed.ac.uk
+#> ~/.ssh/config
 
 Host tardis
 	User camerong

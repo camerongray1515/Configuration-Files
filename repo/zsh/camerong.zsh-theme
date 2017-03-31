@@ -1,5 +1,5 @@
-{% if ohmyzsh == "true" %}
-    #> {{ homedir }}/.oh-my-zsh/themes/camerong.zsh-theme
+{% if zsh_ohmyzsh == "true" %}
+    #> ~/.oh-my-zsh/themes/camerong.zsh-theme
 {% endif %}
 PROMPT='[%{$fg_bold[white]%}%n%{$reset_color%}@%{$fg_bold[red]%}%m%{$reset_color%} %{$fg[cyan]%}%~%{$reset_color%} $(git_prompt_info)%{$reset_color%}]
 %{$fg[cyan]%}>%{$reset_color%} $ '

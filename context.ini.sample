@@ -2,9 +2,11 @@
 machine_type =
 model =
 wifi =
-wm =
-homedir =
 
-ohmyzsh =
-screenfetch =
-virtualenvwrapper =
+i3wm =
+i3wm_terminal = default
+
+zsh =
+zsh_ohmyzsh =
+zsh_screenfetch =
+zsh_virtualenvwrapper =
